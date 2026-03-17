@@ -85,6 +85,15 @@ The engine automatically picks it up — no other changes needed!
 
 ---
 
+## 🖼️Screenshots
+
+<img width="1919" height="1022" alt="Screenshot 2026-03-17 204739" src="https://github.com/user-attachments/assets/9a0296be-230d-4850-b384-df5ca505677a" />
+
+<img width="1919" height="1018" alt="Screenshot 2026-03-17 204717" src="https://github.com/user-attachments/assets/f65f698e-8200-423d-80ef-e16914200619" />
+
+
+
+
 ## 👤 Author
 
 Asna Haris — Artificial Intelligence Intern
