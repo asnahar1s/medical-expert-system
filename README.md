@@ -98,7 +98,7 @@ The engine automatically picks it up — no other changes needed!
 
 Asna Haris — Artificial Intelligence Intern
 
-GitHub: https://github.com/asnaharis06-bot
+GitHub: https://github.com/asnahar1s
 
 LinkedIn: https://www.linkedin.com/in/asna-haris-684058319
 
